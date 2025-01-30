@@ -25,3 +25,9 @@
     left: -11px;
     position: absolute;
 }
+.right-pic {
+    width: 80px;
+    top: 0;
+    right: -11px;
+    position: absolute;
+}
