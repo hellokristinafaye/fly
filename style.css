@@ -12,7 +12,7 @@
 }
 #drone-box {
     margin: 150px auto;
-    /* transition: 2x; */
+    transition: 2s;
     width: 200px;
     position: relative;
 }
