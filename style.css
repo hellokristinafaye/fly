@@ -18,5 +18,10 @@
 }
 .drone-pic {
     width: 100%;
-
+}
+.left-pic {
+    width: 80px;
+    top: 0;
+    left: -11px;
+    position: absolute;
 }
