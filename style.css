@@ -41,3 +41,15 @@
         transform: rotateY(360deg);
     }
 }
+
+/* git animated text */
+H1 {
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 150px;
+    font-weight: 1000;
+    color: transparent;
+    background-image: url(https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExem0zcGp0MjFuMTFhb3Fyc294Y2lxYWx4YnR5ZjFoY3lybWxoaG1idCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3d63YDxRJRtkZepvGm/giphy.gif);
+    background-position: center;
+    -webkit-background-clip:text;
+}
