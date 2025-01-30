@@ -10,3 +10,13 @@
     background-position: center;
     background-size: cover;
 }
+#drone-box {
+    margin: 150px auto;
+    /* transition: 2x; */
+    width: 200px;
+    position: relative;
+}
+.drone-pic {
+    width: 100%;
+
+}
