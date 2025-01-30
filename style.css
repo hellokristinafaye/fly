@@ -24,10 +24,20 @@
     top: 0;
     left: -11px;
     position: absolute;
+    /* moving the propellers */
+    animation: rotation .2s linear infinite;
 }
 .right-pic {
     width: 80px;
     top: 0;
     right: -11px;
     position: absolute;
+        /* moving the propellers */
+    animation: rotation .2s linear infinite;
+}
+/* dictates how the propellers move!!  */
+@keyframes rotation {
+    100%{
+        transform: rotateY(360deg);
+    }
 }
